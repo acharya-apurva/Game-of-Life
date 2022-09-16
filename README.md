@@ -1,6 +1,6 @@
 # John Conway's Game of Life
 
-Simulating the popular 0 player game of Game of Life using Java. The simulation allows you to initialize the cell with a Random pattern, a Simkin glider run or a Penta-devathlon Oscillator.
+Simulating the popular 0 player game of Game of Life using Java. The simulation allows you to initialize the cells with a Random pattern, a Simkin glider run or a Penta-decathlon Oscillator.
 
 ## Try it out
 
