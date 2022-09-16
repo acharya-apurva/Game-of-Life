@@ -19,5 +19,5 @@ example: java Life 500 80 R
 
 ## Author
 
-Life.java = Apurva Acharya
-Picture.java = Robert Sedgewick and Kevin Wayne
+- Life.java = Apurva Acharya
+- Picture.java = Robert Sedgewick and Kevin Wayne
