@@ -11,9 +11,9 @@ To run: java Life n s p
 - where n is the number of iterations (any integer)
 - where s is the size of the square grid (any integer)
 - where p is which pattern type to initialize the cells with: P, S or R
-o Penta-decathlon Oscillator (enter P)
-o Simkin glider gun (enter S)
-o Random (enter R)
+-- Penta-decathlon Oscillator (enter P)
+-- Simkin glider gun (enter S)
+-- Random (enter R)
 
 example: java Life 500 80 R
 
